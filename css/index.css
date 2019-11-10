@@ -1,0 +1,35 @@
+.text-danger{
+    font-family:cursive; 
+    color:#e5904d!important; 
+    text-shadow:1px 1px  black;  
+}
+#s1_header{background: #1e1109;}
+#s2_trio{background: #fefaf7;}
+#s3_painting_of_the_week{background: #26221f;}
+#s4_about{background: #f0e9d7;}
+#s5_prints{background: #fefaf7;}
+#s6_paintings{background: #14161B;}
+#s7_drawings{background: #f0e9d7;}
+#s8_contacts{background: #fefaf7;}
+#s9_footer{background: #414046;}
+#s10_copyright{background: #000;}
+
+
+/* ---------- s1_header --------- */
+
+#s1_header{
+   background-image:url("img/interface-imgs/s1-header-lg-center.jpg");
+   background-position: center bottom;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh; 
+}
+/* ---------- s2_trio --------- */
+/* ---------- s3_painting_of_the_week --------- */
+/* ---------- s4_about --------- */
+/* ---------- s5_prints --------- */
+/* ---------- s6_paintings--------- */
+/* ---------- s7_drawings--------- */
+/* ---------- s8_contacts --------- */
+/* ---------- s9_footer --------- */
+/* ---------- s10_copyright --------- */
